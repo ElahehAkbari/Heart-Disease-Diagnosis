@@ -1,4 +1,4 @@
-# Fuzzy-Heart-Disease-Diagnosis
+# Heart-Disease-Diagnosis
 
 This project is an implementation of a fuzzy expert system to diagnose heart disease.
 ## Inputs
